@@ -1,0 +1,19 @@
+
+img {
+  float: left;
+  width: 240px;
+  height: 200px;
+}
+h1{
+  font-size: 70px;
+  padding: 20px;
+  text-align: center;
+}
+.introduction {
+  border: 7px solid red;
+  background-color: blue;
+}
+body{
+  background-image: url(../images/hd-white.jpeg);
+  background-size: cover;
+}
