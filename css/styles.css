@@ -28,8 +28,11 @@ h3{
 h2{
   padding-left: 50px;
   font-size: 24px;
-  font-family: sans-serif;
+  font-family: monospace;
 }
 .moringa{
+  font-family: monospace;
+}
+.about{
   font-family: monospace;
 }
